@@ -1,0 +1,5602 @@
+[
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 339472,
+    "Closing\r\nRank": 355689,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 119939,
+    "Closing\r\nRank": 143154,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 576077,
+    "Closing\r\nRank": 685981,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 163224,
+    "Closing\r\nRank": 163224,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 57060,
+    "Closing\r\nRank": 68109,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 278325,
+    "Closing\r\nRank": 288424,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 713144,
+    "Closing\r\nRank": 713144,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 356435,
+    "Closing\r\nRank": 358780,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 135741,
+    "Closing\r\nRank": 150081,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 600735,
+    "Closing\r\nRank": 759434,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "CSE- DS",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 66014,
+    "Closing\r\nRank": 70604,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "CSE- DS",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 303323,
+    "Closing\r\nRank": 303323,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 280128,
+    "Closing\r\nRank": 328034,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 175732,
+    "Closing\r\nRank": 258897,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 76180,
+    "Closing\r\nRank": 87850,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 328937,
+    "Closing\r\nRank": 328937,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 521367,
+    "Closing\r\nRank": 521367,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 221825,
+    "Closing\r\nRank": 1238683,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 156077,
+    "Closing\r\nRank": 217899,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 101849,
+    "Closing\r\nRank": 101849,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 75345,
+    "Closing\r\nRank": 81577,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 374181,
+    "Closing\r\nRank": 381555,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 377875,
+    "Closing\r\nRank": 477370,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 143577,
+    "Closing\r\nRank": 165444,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4, Sector-17, Rohini, Delhi-110085",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 702987,
+    "Closing\r\nRank": 962743,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 76244,
+    "Closing\r\nRank": 76244,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 69057,
+    "Closing\r\nRank": 73960,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bhagwan Parshuram Institute of Technology, P.S.P-4,\r\nSector-17, Rohini, Delhi-110085",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 309173,
+    "Closing\r\nRank": 320967,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Computer Science & Engineering",
+    "Quota": "AI",
+    "Category": "J&K Migrant",
+    "Opening\r\nRank": 158319,
+    "Closing\r\nRank": 158319,
+    "abbreviations ": "NOKM"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 256841,
+    "Closing\r\nRank": 355859,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 102447,
+    "Closing\r\nRank": 137197,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 519133,
+    "Closing\r\nRank": 698525,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 67501,
+    "Closing\r\nRank": 67501,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 45917,
+    "Closing\r\nRank": 66378,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 286577,
+    "Closing\r\nRank": 300091,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 1220065,
+    "Closing\r\nRank": 1220065,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 273010,
+    "Closing\r\nRank": 404684,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 86064,
+    "Closing\r\nRank": 145765,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 548134,
+    "Closing\r\nRank": 824932,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 74573,
+    "Closing\r\nRank": 74573,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 66424,
+    "Closing\r\nRank": 71316,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 235030,
+    "Closing\r\nRank": 304897,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 260499,
+    "Closing\r\nRank": 574511,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 170700,
+    "Closing\r\nRank": 247683,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 86111,
+    "Closing\r\nRank": 93077,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 436733,
+    "Closing\r\nRank": 436733,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 228969,
+    "Closing\r\nRank": 1124697,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 167222,
+    "Closing\r\nRank": 210671,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 84976,
+    "Closing\r\nRank": 84976,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 71899,
+    "Closing\r\nRank": 84932,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 341467,
+    "Closing\r\nRank": 400503,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 439900,
+    "Closing\r\nRank": 462181,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 132103,
+    "Closing\r\nRank": 155650,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 738755,
+    "Closing\r\nRank": 851166,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 77970,
+    "Closing\r\nRank": 77970,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 67950,
+    "Closing\r\nRank": 74644,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 315727,
+    "Closing\r\nRank": 319457,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Instrumentation & Control Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 358962,
+    "Closing\r\nRank": 358962,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Instrumentation & Control Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 179547,
+    "Closing\r\nRank": 275325,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Instrumentation & Control Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 95751,
+    "Closing\r\nRank": 99028,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Bharati Vidyapeeths College of Engineering",
+    "Program": "Instrumentation & Control Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 426835,
+    "Closing\r\nRank": 426835,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "BM Institute of Engineering & Technology (Jain Minority Institute), Behind Fazilpur Power Station Sonepath, Bahalgarh Road, Village Raipur, Sonepat, Haryana",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 799348,
+    "Closing\r\nRank": 799348,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "BM Institute of Engineering & Technology (Jain Minority\r\nInstitute), Behind Fazilpur Power Station Sonepath, Bahalgarh Road, Village Raipur, Sonepat, Haryana",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 311724,
+    "Closing\r\nRank": 429579,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "BM Institute of Engineering & Technology (Jain Minority Institute), Behind Fazilpur Power Station Sonepath, Bahalgarh Road, Village Raipur, Sonepat, Haryana",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 118802,
+    "Closing\r\nRank": 135000,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "BM Institute of Engineering & Technology (Jain Minority\r\nInstitute), Behind Fazilpur Power Station Sonepath, Bahalgarh Road, Village Raipur, Sonepat, Haryana",
+    "Program": "Computer Science & Engineering",
+    "Quota": "AI",
+    "Category": "J&K Migrant",
+    "Opening\r\nRank": 459525,
+    "Closing\r\nRank": 738539,
+    "abbreviations ": "NOJN"
+  },
+  {
+    "Round": 2,
+    "Institute": "BM Institute of Engineering & Technology (Jain Minority\r\nInstitute), Behind Fazilpur Power Station Sonepath, Bahalgarh Road, Village Raipur, Sonepat, Haryana",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 591304,
+    "Closing\r\nRank": 723363,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "BM Institute of Engineering & Technology (Jain Minority\r\nInstitute), Behind Fazilpur Power Station Sonepath, Bahalgarh Road, Village Raipur, Sonepat, Haryana",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 171756,
+    "Closing\r\nRank": 422142,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "BM Institute of Engineering & Technology (Jain Minority Institute), Behind Fazilpur Power Station Sonepath,\r\nBahalgarh Road, Village Raipur, Sonepat, Haryana",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 105177,
+    "Closing\r\nRank": 127600,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "BM Institute of Engineering & Technology (Jain Minority Institute), Behind Fazilpur Power Station Sonepath, Bahalgarh Road, Village Raipur, Sonepat, Haryana",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 443763,
+    "Closing\r\nRank": 453397,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 321458,
+    "Closing\r\nRank": 448118,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 693590,
+    "Closing\r\nRank": 693590,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III,\r\nGreater NOIDA, UP",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 50758,
+    "Closing\r\nRank": 130537,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 468204,
+    "Closing\r\nRank": 468204,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III,\r\nGreater NOIDA, UP",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 192994,
+    "Closing\r\nRank": 448145,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 103796,
+    "Closing\r\nRank": 133326,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 460661,
+    "Closing\r\nRank": 460661,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 474396,
+    "Closing\r\nRank": 1163323,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 289904,
+    "Closing\r\nRank": 422869,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 750389,
+    "Closing\r\nRank": 750389,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 132774,
+    "Closing\r\nRank": 135384,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 44404,
+    "Closing\r\nRank": 127178,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 386806,
+    "Closing\r\nRank": 498148,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 326020,
+    "Closing\r\nRank": 445926,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III,\r\nGreater NOIDA, UP",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1029506,
+    "Closing\r\nRank": 1029506,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III, Greater NOIDA, UP",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 165629,
+    "Closing\r\nRank": 165629,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III,\r\nGreater NOIDA, UP",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 118529,
+    "Closing\r\nRank": 131794,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Delhi Technical Campus, 28/1, Knowledge Park, III,\r\nGreater NOIDA, UP",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 509153,
+    "Closing\r\nRank": 529875,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 445840,
+    "Closing\r\nRank": 568430,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 206867,
+    "Closing\r\nRank": 282596,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1066066,
+    "Closing\r\nRank": 1066066,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 120380,
+    "Closing\r\nRank": 120380,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 95869,
+    "Closing\r\nRank": 110997,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 424307,
+    "Closing\r\nRank": 431047,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Artificial Intelligence & Data Science (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 406377,
+    "Closing\r\nRank": 549448,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Artificial Intelligence & Data Science (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 227720,
+    "Closing\r\nRank": 292131,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Artificial Intelligence & Data Science (Shift II)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 111271,
+    "Closing\r\nRank": 113909,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies (formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 399981,
+    "Closing\r\nRank": 399981,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 331330,
+    "Closing\r\nRank": 425130,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 184059,
+    "Closing\r\nRank": 286077,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 116011,
+    "Closing\r\nRank": 116011,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 80078,
+    "Closing\r\nRank": 109780,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 374100,
+    "Closing\r\nRank": 386107,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 752405,
+    "Closing\r\nRank": 752405,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Artificial Intelligence & Machine Learning (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 523440,
+    "Closing\r\nRank": 538011,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Machine Learning (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 263658,
+    "Closing\r\nRank": 294043,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Machine Learning (Shift II)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 109889,
+    "Closing\r\nRank": 112466,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Artificial Intelligence & Machine Learning (Shift II)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 447983,
+    "Closing\r\nRank": 447983,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "B. Tech. (Computer Science)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 1016276,
+    "Closing\r\nRank": 1016276,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "B. Tech. (Computer Science)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 165881,
+    "Closing\r\nRank": 236385,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "B. Tech. (Computer Science)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1019748,
+    "Closing\r\nRank": 1176184,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "B. Tech. (Computer Science)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 82804,
+    "Closing\r\nRank": 98987,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "B. Tech. (Computer Science)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 370375,
+    "Closing\r\nRank": 370375,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies (formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Civil Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 309915,
+    "Closing\r\nRank": 367874,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Civil Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 125957,
+    "Closing\r\nRank": 135695,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Civil Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 508997,
+    "Closing\r\nRank": 508997,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 612744,
+    "Closing\r\nRank": 756685,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 146775,
+    "Closing\r\nRank": 204972,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 690574,
+    "Closing\r\nRank": 1233120,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 101225,
+    "Closing\r\nRank": 101225,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 76503,
+    "Closing\r\nRank": 90866,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 323207,
+    "Closing\r\nRank": 359245,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 762104,
+    "Closing\r\nRank": 1140507,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 202639,
+    "Closing\r\nRank": 218125,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 986888,
+    "Closing\r\nRank": 1005664,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 88588,
+    "Closing\r\nRank": 92778,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 366937,
+    "Closing\r\nRank": 366937,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 266640,
+    "Closing\r\nRank": 940843,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 192071,
+    "Closing\r\nRank": 227221,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1247939,
+    "Closing\r\nRank": 1247939,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies (formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 81098,
+    "Closing\r\nRank": 94378,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 367113,
+    "Closing\r\nRank": 367113,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Electronics & Communication Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 621067,
+    "Closing\r\nRank": 1229762,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Electronics & Communication Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 204969,
+    "Closing\r\nRank": 300863,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Electronics & Communication Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1296342,
+    "Closing\r\nRank": 1296342,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Electronics & Communication Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 97159,
+    "Closing\r\nRank": 114378,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Electronics & Communication Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 387412,
+    "Closing\r\nRank": 387412,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Electronics & Communication Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 660933,
+    "Closing\r\nRank": 772897,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Electronics & Communication Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 293076,
+    "Closing\r\nRank": 313852,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Electronics & Communication Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 114655,
+    "Closing\r\nRank": 117873,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Electronics & Communication Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 449106,
+    "Closing\r\nRank": 449106,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 325138,
+    "Closing\r\nRank": 562672,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 202163,
+    "Closing\r\nRank": 272503,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1259258,
+    "Closing\r\nRank": 1259258,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 113367,
+    "Closing\r\nRank": 113367,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 94416,
+    "Closing\r\nRank": 105565,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies (\r\nformerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 374373,
+    "Closing\r\nRank": 419626,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 552358,
+    "Closing\r\nRank": 578238,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology\r\n& Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 242383,
+    "Closing\r\nRank": 287914,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 105829,
+    "Closing\r\nRank": 108138,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 423334,
+    "Closing\r\nRank": 423334,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi - 110053",
+    "Program": "Mechanical Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 1030838,
+    "Closing\r\nRank": 1030838,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Mechanical Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 301771,
+    "Closing\r\nRank": 350609,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Mechanical Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 118587,
+    "Closing\r\nRank": 125778,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Dr. Akhilesh Das Gupta Institute of Professional Studies ( formerly Dr. Akhilesh Das Gupta Institute of Technology & Management), FC-26, Shastri Park, New Delhi -\r\n110053",
+    "Program": "Mechanical Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 360434,
+    "Closing\r\nRank": 360434,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Greater Noida Institute of Technology",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 281723,
+    "Closing\r\nRank": 455219,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Greater Noida Institute of Technology",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 154312,
+    "Closing\r\nRank": 154312,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Greater Noida Institute of Technology",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 86394,
+    "Closing\r\nRank": 137956,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Greater Noida Institute of Technology",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 427461,
+    "Closing\r\nRank": 533576,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Greater Noida Institute of Technology",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 372650,
+    "Closing\r\nRank": 458549,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Greater Noida Institute of Technology",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 132343,
+    "Closing\r\nRank": 135992,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Greater Noida Institute of Technology",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 563431,
+    "Closing\r\nRank": 563431,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "AI",
+    "Category": "Single Girl Child",
+    "Opening\r\nRank": 200804,
+    "Closing\r\nRank": 528779,
+    "abbreviations ": "NOSM"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 479180,
+    "Closing\r\nRank": 479180,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 135922,
+    "Closing\r\nRank": 179243,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 702256,
+    "Closing\r\nRank": 827932,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 68253,
+    "Closing\r\nRank": 76697,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 321378,
+    "Closing\r\nRank": 321378,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Computer Science & Engineering (Shift\r\nII)",
+    "Quota": "AI",
+    "Category": "Single Girl Child",
+    "Opening\r\nRank": 541138,
+    "Closing\r\nRank": 714676,
+    "abbreviations ": "NOSM"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Computer Science & Engineering (Shift\r\nII)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 513477,
+    "Closing\r\nRank": 513477,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 181215,
+    "Closing\r\nRank": 190659,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 840393,
+    "Closing\r\nRank": 893657,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Computer Science & Engineering (Shift\r\nII)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 81161,
+    "Closing\r\nRank": 81419,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "CSE- AIML",
+    "Quota": "AI",
+    "Category": "Single Girl Child",
+    "Opening\r\nRank": 256113,
+    "Closing\r\nRank": 600839,
+    "abbreviations ": "NOSM"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 471789,
+    "Closing\r\nRank": 471789,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 151896,
+    "Closing\r\nRank": 178314,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 871535,
+    "Closing\r\nRank": 1075326,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 80940,
+    "Closing\r\nRank": 84389,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "CSE- DS",
+    "Quota": "AI",
+    "Category": "Single Girl Child",
+    "Opening\r\nRank": 450853,
+    "Closing\r\nRank": 998123,
+    "abbreviations ": "NOSM"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 794670,
+    "Closing\r\nRank": 794670,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 179373,
+    "Closing\r\nRank": 198870,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 921597,
+    "Closing\r\nRank": 1023620,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "CSE- DS",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 83098,
+    "Closing\r\nRank": 92001,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "AI",
+    "Category": "Single Girl Child",
+    "Opening\r\nRank": 1100643,
+    "Closing\r\nRank": 1100643,
+    "abbreviations ": "NOSM"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 490494,
+    "Closing\r\nRank": 490494,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 224410,
+    "Closing\r\nRank": 297139,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 99937,
+    "Closing\r\nRank": 107399,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 407518,
+    "Closing\r\nRank": 407518,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "AI",
+    "Category": "Single Girl Child",
+    "Opening\r\nRank": 193204,
+    "Closing\r\nRank": 1367170,
+    "abbreviations ": "NOSM"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 1194534,
+    "Closing\r\nRank": 1194534,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 190752,
+    "Closing\r\nRank": 221857,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh MinorityInstitute)",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 785508,
+    "Closing\r\nRank": 1121363,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority\r\nInstitute)",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 79320,
+    "Closing\r\nRank": 94584,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 324891,
+    "Closing\r\nRank": 324891,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "AI",
+    "Category": "Single Girl Child",
+    "Opening\r\nRank": 393665,
+    "Closing\r\nRank": 1288498,
+    "abbreviations ": "NOSM"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 321067,
+    "Closing\r\nRank": 321067,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 199938,
+    "Closing\r\nRank": 231233,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Teg Bahadur Institute of Technology, (Sikh Minority Institute)",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 94615,
+    "Closing\r\nRank": 96110,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 538978,
+    "Closing\r\nRank": 754938,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 152394,
+    "Closing\r\nRank": 251349,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 990605,
+    "Closing\r\nRank": 1233206,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 129865,
+    "Closing\r\nRank": 129865,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College,\r\nG-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 80851,
+    "Closing\r\nRank": 100386,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 339312,
+    "Closing\r\nRank": 347520,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College,\r\nG-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "CSE (Data Science)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 890762,
+    "Closing\r\nRank": 1031210,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College,\r\nG-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "CSE (Data Science)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 230744,
+    "Closing\r\nRank": 278671,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College,\r\nG-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "CSE (Data Science)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1145088,
+    "Closing\r\nRank": 1145088,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "CSE (Data Science)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 85610,
+    "Closing\r\nRank": 105455,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "CSE (Data Science)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 311609,
+    "Closing\r\nRank": 311609,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 194755,
+    "Closing\r\nRank": 261450,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 90675,
+    "Closing\r\nRank": 101124,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 356893,
+    "Closing\r\nRank": 356893,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 562049,
+    "Closing\r\nRank": 762351,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College,\r\nG-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 263833,
+    "Closing\r\nRank": 319845,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 111609,
+    "Closing\r\nRank": 118815,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College,\r\nG-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 420768,
+    "Closing\r\nRank": 420768,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College,\r\nG-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 362703,
+    "Closing\r\nRank": 514574,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College, G-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 251345,
+    "Closing\r\nRank": 290284,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College,\r\nG-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 103182,
+    "Closing\r\nRank": 110886,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Guru Tegh Bahadur 4th Centenary Engineering College,\r\nG-8 Area, Rajouri Garden, New Delhi-110064",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 426240,
+    "Closing\r\nRank": 426240,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 355481,
+    "Closing\r\nRank": 441800,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 115097,
+    "Closing\r\nRank": 134418,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 576791,
+    "Closing\r\nRank": 576791,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 262465,
+    "Closing\r\nRank": 424459,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 129205,
+    "Closing\r\nRank": 135502,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 585538,
+    "Closing\r\nRank": 585538,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 773229,
+    "Closing\r\nRank": 1019782,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 251377,
+    "Closing\r\nRank": 339214,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 135835,
+    "Closing\r\nRank": 135835,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 115564,
+    "Closing\r\nRank": 125171,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 458578,
+    "Closing\r\nRank": 497980,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 339263,
+    "Closing\r\nRank": 376398,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 126875,
+    "Closing\r\nRank": 129771,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 561189,
+    "Closing\r\nRank": 561189,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 318046,
+    "Closing\r\nRank": 406453,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 119143,
+    "Closing\r\nRank": 129828,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 473402,
+    "Closing\r\nRank": 473402,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "CSE (Cyber Security)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 1301868,
+    "Closing\r\nRank": 1301868,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "CSE (Cyber Security)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 282696,
+    "Closing\r\nRank": 407448,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "CSE (Cyber Security)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 129853,
+    "Closing\r\nRank": 130479,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "CSE (Cyber Security)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 510094,
+    "Closing\r\nRank": 510094,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 363060,
+    "Closing\r\nRank": 438709,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "CSE- DS",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 131043,
+    "Closing\r\nRank": 134904,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "CSE- DS",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 574263,
+    "Closing\r\nRank": 574263,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 859407,
+    "Closing\r\nRank": 859407,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 343756,
+    "Closing\r\nRank": 431538,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 129826,
+    "Closing\r\nRank": 135536,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "HMR Institute of Technology & Management",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 563840,
+    "Closing\r\nRank": 563840,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4,\r\nKnowledge Park - III Greater Noida",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 210343,
+    "Closing\r\nRank": 472947,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 138740,
+    "Closing\r\nRank": 140333,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 579685,
+    "Closing\r\nRank": 581050,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 388876,
+    "Closing\r\nRank": 471670,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4,\r\nKnowledge Park - III Greater Noida",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 137825,
+    "Closing\r\nRank": 140725,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4,",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 520696,
+    "Closing\r\nRank": 520696,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4,\r\nKnowledge Park - III Greater Noida",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 213941,
+    "Closing\r\nRank": 443046,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 586789,
+    "Closing\r\nRank": 586789,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 166757,
+    "Closing\r\nRank": 166757,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 113091,
+    "Closing\r\nRank": 137979,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 417701,
+    "Closing\r\nRank": 550071,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 310866,
+    "Closing\r\nRank": 461368,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 123501,
+    "Closing\r\nRank": 138445,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "JIMS Engineering Management Technical Campus, 48/4, Knowledge Park - III Greater Noida",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 568938,
+    "Closing\r\nRank": 568938,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 110308,
+    "Closing\r\nRank": 162066,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 47950,
+    "Closing\r\nRank": 76986,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "PWD",
+    "Opening\r\nRank": 419925,
+    "Closing\r\nRank": 419925,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 312119,
+    "Closing\r\nRank": 387219,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "ST",
+    "Opening\r\nRank": 821075,
+    "Closing\r\nRank": 821075,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 56013,
+    "Closing\r\nRank": 56013,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 39422,
+    "Closing\r\nRank": 46402,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "PWD",
+    "Opening\r\nRank": 503669,
+    "Closing\r\nRank": 503669,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 184959,
+    "Closing\r\nRank": 216843,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 410531,
+    "Closing\r\nRank": 541529,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 123517,
+    "Closing\r\nRank": 176075,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 71014,
+    "Closing\r\nRank": 81838,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 392645,
+    "Closing\r\nRank": 415545,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift\r\nII)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 46415,
+    "Closing\r\nRank": 47563,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 611779,
+    "Closing\r\nRank": 611779,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 166231,
+    "Closing\r\nRank": 204834,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 16922,
+    "Closing\r\nRank": 95763,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 387379,
+    "Closing\r\nRank": 489268,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 122753,
+    "Closing\r\nRank": 122753,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 45249,
+    "Closing\r\nRank": 51667,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "PWD",
+    "Opening\r\nRank": 1174702,
+    "Closing\r\nRank": 1174702,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 231974,
+    "Closing\r\nRank": 248211,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 664784,
+    "Closing\r\nRank": 664784,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "CSE - AI",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 176287,
+    "Closing\r\nRank": 180171,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,",
+    "Program": "CSE - AI",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 17988,
+    "Closing\r\nRank": 85526,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "CSE - AI",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 348699,
+    "Closing\r\nRank": 422553,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE - AI",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 42847,
+    "Closing\r\nRank": 50223,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE - AI",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 246532,
+    "Closing\r\nRank": 246532,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE - AI",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 454076,
+    "Closing\r\nRank": 454076,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 129813,
+    "Closing\r\nRank": 162479,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 57245,
+    "Closing\r\nRank": 81869,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 326529,
+    "Closing\r\nRank": 425427,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 47051,
+    "Closing\r\nRank": 49906,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 238703,
+    "Closing\r\nRank": 238703,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 443017,
+    "Closing\r\nRank": 443017,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 182093,
+    "Closing\r\nRank": 213257,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 72441,
+    "Closing\r\nRank": 89825,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "CSE- DS",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 424310,
+    "Closing\r\nRank": 463382,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "CSE- DS",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 46503,
+    "Closing\r\nRank": 50774,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "CSE- DS",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 244263,
+    "Closing\r\nRank": 244263,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "CSE- DS",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 517305,
+    "Closing\r\nRank": 517305,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 387389,
+    "Closing\r\nRank": 477020,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 106112,
+    "Closing\r\nRank": 178300,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 704982,
+    "Closing\r\nRank": 1182093,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 65929,
+    "Closing\r\nRank": 72026,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 264420,
+    "Closing\r\nRank": 264420,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Electronics & Comm.- Advance Comm.\r\nTechnology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 399089,
+    "Closing\r\nRank": 399089,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electronics & Comm.- Advance Comm. Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 128279,
+    "Closing\r\nRank": 153190,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Electronics & Comm.- Advance Comm.\r\nTechnology",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 656141,
+    "Closing\r\nRank": 698851,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Electronics & Comm.- Advance Comm.\r\nTechnology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 62489,
+    "Closing\r\nRank": 64960,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electronics & Comm.- Advance Comm. Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 246122,
+    "Closing\r\nRank": 246122,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 342877,
+    "Closing\r\nRank": 362224,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 88963,
+    "Closing\r\nRank": 126420,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Electronics & Communication\r\nEngineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 492879,
+    "Closing\r\nRank": 666028,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 51638,
+    "Closing\r\nRank": 60595,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Electronics Engg.- VLSI Design &\r\nTechnology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 612555,
+    "Closing\r\nRank": 617147,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Electronics Engg.- VLSI Design &\r\nTechnology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 98215,
+    "Closing\r\nRank": 167952,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electronics Engg.- VLSI Design & Technology",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 790032,
+    "Closing\r\nRank": 976458,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Electronics Engg.- VLSI Design &\r\nTechnology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 65331,
+    "Closing\r\nRank": 67324,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Electronics Engg.- VLSI Design & Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 264231,
+    "Closing\r\nRank": 264231,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 192295,
+    "Closing\r\nRank": 278714,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 88789,
+    "Closing\r\nRank": 107249,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 431048,
+    "Closing\r\nRank": 528778,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 163187,
+    "Closing\r\nRank": 163187,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 50566,
+    "Closing\r\nRank": 55080,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 219168,
+    "Closing\r\nRank": 251313,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 602382,
+    "Closing\r\nRank": 602382,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology and Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 205314,
+    "Closing\r\nRank": 288022,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Information Technology and Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 96116,
+    "Closing\r\nRank": 113695,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology and Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 540456,
+    "Closing\r\nRank": 597060,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Information Technology and Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 540829,
+    "Closing\r\nRank": 540829,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Information Technology and Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 51814,
+    "Closing\r\nRank": 55923,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22,\r\nRohini, Delhi – 110085",
+    "Program": "Information Technology and Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 254799,
+    "Closing\r\nRank": 256449,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Information Technology and Engineering",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 685357,
+    "Closing\r\nRank": 685357,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Mechanical Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 508319,
+    "Closing\r\nRank": 637282,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Mechanical Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 165969,
+    "Closing\r\nRank": 217937,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Mechanical Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 901257,
+    "Closing\r\nRank": 901257,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Mechanical Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 72404,
+    "Closing\r\nRank": 86896,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Agrasen Institute of Technology, Sector-22, Rohini, Delhi – 110085",
+    "Program": "Mechanical Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 286602,
+    "Closing\r\nRank": 286602,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "AI",
+    "Category": "J&K Migrant",
+    "Opening\r\nRank": 106715,
+    "Closing\r\nRank": 106715,
+    "abbreviations ": "NOKM"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 181967,
+    "Closing\r\nRank": 219543,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 75347,
+    "Closing\r\nRank": 106609,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "PWD",
+    "Opening\r\nRank": 1221085,
+    "Closing\r\nRank": 1221085,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 388858,
+    "Closing\r\nRank": 484731,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 255431,
+    "Closing\r\nRank": 255431,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 47442,
+    "Closing\r\nRank": 56150,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 217428,
+    "Closing\r\nRank": 255200,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 500799,
+    "Closing\r\nRank": 500799,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift\r\nII)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 228897,
+    "Closing\r\nRank": 236255,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 102485,
+    "Closing\r\nRank": 109664,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 380942,
+    "Closing\r\nRank": 518275,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift\r\nII)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 56151,
+    "Closing\r\nRank": 56879,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 265077,
+    "Closing\r\nRank": 265077,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Computer Science & Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 598533,
+    "Closing\r\nRank": 598533,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 691309,
+    "Closing\r\nRank": 712318,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 174477,
+    "Closing\r\nRank": 202837,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 752037,
+    "Closing\r\nRank": 847293,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 72612,
+    "Closing\r\nRank": 76760,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 329121,
+    "Closing\r\nRank": 329121,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication\r\nEngineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 370352,
+    "Closing\r\nRank": 381471,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication\r\nEngineering (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 109435,
+    "Closing\r\nRank": 162493,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication\r\nEngineering (Shift I)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 664675,
+    "Closing\r\nRank": 905052,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 446211,
+    "Closing\r\nRank": 446211,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication\r\nEngineering (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 61156,
+    "Closing\r\nRank": 68002,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication Engineering (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 273986,
+    "Closing\r\nRank": 279857,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 390670,
+    "Closing\r\nRank": 414513,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication Engineering (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 137731,
+    "Closing\r\nRank": 169458,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication\r\nEngineering (Shift II)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 976150,
+    "Closing\r\nRank": 1349056,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 68258,
+    "Closing\r\nRank": 71693,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Electronics & Communication Engineering (Shift II)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 293487,
+    "Closing\r\nRank": 293487,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 244112,
+    "Closing\r\nRank": 302704,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 108177,
+    "Closing\r\nRank": 123189,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 496166,
+    "Closing\r\nRank": 612615,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 600344,
+    "Closing\r\nRank": 600344,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 57499,
+    "Closing\r\nRank": 59996,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 257943,
+    "Closing\r\nRank": 272327,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift I)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 782965,
+    "Closing\r\nRank": 992779,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 303416,
+    "Closing\r\nRank": 305361,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 123300,
+    "Closing\r\nRank": 127174,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 545031,
+    "Closing\r\nRank": 633349,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 60439,
+    "Closing\r\nRank": 61178,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Maharaja Surajmal Institute Technology",
+    "Program": "Information Technology (Shift II)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 272497,
+    "Closing\r\nRank": 272497,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri),\r\nSonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 217539,
+    "Closing\r\nRank": 468166,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri), Sonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 851414,
+    "Closing\r\nRank": 851414,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri),\r\nSonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 123056,
+    "Closing\r\nRank": 135654,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri), Sonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 447242,
+    "Closing\r\nRank": 447242,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri),\r\nSonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 458276,
+    "Closing\r\nRank": 486402,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri), Sonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Electrical & Electronics Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 113958,
+    "Closing\r\nRank": 113958,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri), Sonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 376813,
+    "Closing\r\nRank": 423505,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri), Sonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Electronics & Communication Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 123762,
+    "Closing\r\nRank": 138915,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri),\r\nSonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 397918,
+    "Closing\r\nRank": 482803,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri),\r\nSonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 136695,
+    "Closing\r\nRank": 137016,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri), Sonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Mechanical Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 429463,
+    "Closing\r\nRank": 486451,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Shri Balwant Institute of Technology, Merrut Road (Pallri), Sonipat, NCR Delhi), Haryana (Jain Minority Institute)",
+    "Program": "Mechanical Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 141651,
+    "Closing\r\nRank": 141668,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar Pradesh - 2011308",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 537702,
+    "Closing\r\nRank": 537702,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 289471,
+    "Closing\r\nRank": 467348,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies,\r\nPlot no 2B/1, Knowledge Park - III, Greater Noida, Uttar Pradesh - 2011308",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 128319,
+    "Closing\r\nRank": 135828,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar\r\nPradesh - 2011308",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 508078,
+    "Closing\r\nRank": 508078,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar Pradesh - 2011308",
+    "Program": "Computer Science & Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 328704,
+    "Closing\r\nRank": 485402,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar Pradesh - 2011308",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 139154,
+    "Closing\r\nRank": 141323,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar\r\nPradesh - 2011308",
+    "Program": "Computer Science & Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 571843,
+    "Closing\r\nRank": 571843,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar Pradesh - 2011308",
+    "Program": "CSE- AIML",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 226898,
+    "Closing\r\nRank": 460158,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar Pradesh - 2011308",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 129982,
+    "Closing\r\nRank": 140238,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies,\r\nPlot no 2B/1, Knowledge Park - III, Greater Noida, Uttar Pradesh - 2011308",
+    "Program": "CSE- AIML",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 564182,
+    "Closing\r\nRank": 564182,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar Pradesh - 2011308",
+    "Program": "Information Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 302471,
+    "Closing\r\nRank": 475976,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar Pradesh - 2011308",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 121114,
+    "Closing\r\nRank": 139506,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Trinity Institute of Innovations in Professional Studies, Plot no 2B/1, Knowledge Park - III, Greater Noida, Uttar",
+    "Program": "Information Technology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 579353,
+    "Closing\r\nRank": 579353,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "AI",
+    "Category": "J&K Migrant",
+    "Opening\r\nRank": 113160,
+    "Closing\r\nRank": 113160,
+    "abbreviations ": "NOKM"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 435626,
+    "Closing\r\nRank": 435626,
+    "abbreviations ": "BCDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 230030,
+    "Closing\r\nRank": 276022,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 110340,
+    "Closing\r\nRank": 135688,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 250115,
+    "Closing\r\nRank": 250115,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 83306,
+    "Closing\r\nRank": 106433,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 330550,
+    "Closing\r\nRank": 544411,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 64988,
+    "Closing\r\nRank": 66335,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 51339,
+    "Closing\r\nRank": 62053,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "OS",
+    "Category": "PWD",
+    "Opening\r\nRank": 960772,
+    "Closing\r\nRank": 960772,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 179695,
+    "Closing\r\nRank": 239764,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-DS)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 542434,
+    "Closing\r\nRank": 542434,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 537901,
+    "Closing\r\nRank": 1314446,
+    "abbreviations ": "BCDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 162557,
+    "Closing\r\nRank": 289472,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 131138,
+    "Closing\r\nRank": 146484,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 292543,
+    "Closing\r\nRank": 321781,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 81890,
+    "Closing\r\nRank": 114005,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 319452,
+    "Closing\r\nRank": 572682,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 69573,
+    "Closing\r\nRank": 72611,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 50302,
+    "Closing\r\nRank": 66821,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "OS",
+    "Category": "PWD",
+    "Opening\r\nRank": 659225,
+    "Closing\r\nRank": 659225,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 233525,
+    "Closing\r\nRank": 233525,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AI-ML)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 812350,
+    "Closing\r\nRank": 952839,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 289913,
+    "Closing\r\nRank": 356866,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 164518,
+    "Closing\r\nRank": 192618,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 457067,
+    "Closing\r\nRank": 508192,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 117025,
+    "Closing\r\nRank": 156301,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 510364,
+    "Closing\r\nRank": 834863,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 78474,
+    "Closing\r\nRank": 82926,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 89352,
+    "Closing\r\nRank": 89352,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 66977,
+    "Closing\r\nRank": 78277,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 279751,
+    "Closing\r\nRank": 294728,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (AR)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 1160943,
+    "Closing\r\nRank": 1160943,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (IIOT)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 313474,
+    "Closing\r\nRank": 373321,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (IIOT)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 194492,
+    "Closing\r\nRank": 231283,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (IIOT)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 334579,
+    "Closing\r\nRank": 385431,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (IIOT)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 126020,
+    "Closing\r\nRank": 174817,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (IIOT)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 729125,
+    "Closing\r\nRank": 1076310,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (IIOT)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 83391,
+    "Closing\r\nRank": 85924,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (IIOT)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 74495,
+    "Closing\r\nRank": 80816,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (IIOT)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 323253,
+    "Closing\r\nRank": 331788,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Automation & Robotics",
+    "Program": "B.Tech./M. Tech. (DD) (IIOT)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 835993,
+    "Closing\r\nRank": 835993,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech. (Energy)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 260058,
+    "Closing\r\nRank": 580164,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C,\r\nDwarka, New Delhi - 110078",
+    "Program": "B. Tech. (Energy)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 465010,
+    "Closing\r\nRank": 527668,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C,\r\nDwarka, New Delhi - 110078",
+    "Program": "B. Tech. (Energy)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 198192,
+    "Closing\r\nRank": 249128,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech. (Energy)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 445492,
+    "Closing\r\nRank": 842323,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech. (Energy)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 133753,
+    "Closing\r\nRank": 133753,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C,\r\nDwarka, New Delhi - 110078",
+    "Program": "B. Tech. (Energy)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 111795,
+    "Closing\r\nRank": 113664,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C,\r\nDwarka, New Delhi - 110078",
+    "Program": "B. Tech. (Energy)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 385958,
+    "Closing\r\nRank": 385958,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech. (Dual Degree in Chemical Engineering",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 284715,
+    "Closing\r\nRank": 564652,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C,\r\nDwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech. (Dual Degree in\r\nChemical Engineering",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 330556,
+    "Closing\r\nRank": 541503,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech. (Dual Degree in Chemical Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 491005,
+    "Closing\r\nRank": 491005,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech. (Dual Degree in Chemical Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 124156,
+    "Closing\r\nRank": 256103,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech. (Dual Degree in Chemical Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 823152,
+    "Closing\r\nRank": 823152,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech. (Dual Degree in Chemical Engineering",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 123403,
+    "Closing\r\nRank": 139262,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech. (Dual Degree in Chemical Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 125665,
+    "Closing\r\nRank": 125665,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech. (Dual Degree in Chemical Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 99430,
+    "Closing\r\nRank": 119768,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Chemical Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech. (Dual Degree in Chemical Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 335788,
+    "Closing\r\nRank": 390525,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 246075,
+    "Closing\r\nRank": 325851,
+    "abbreviations ": "BCDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 67129,
+    "Closing\r\nRank": 168186,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 58751,
+    "Closing\r\nRank": 67021,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 47472,
+    "Closing\r\nRank": 857794,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 30607,
+    "Closing\r\nRank": 45046,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "HS",
+    "Category": "PWD",
+    "Opening\r\nRank": 229614,
+    "Closing\r\nRank": 275987,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 599357,
+    "Closing\r\nRank": 599357,
+    "abbreviations ": "SCDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 154864,
+    "Closing\r\nRank": 262030,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "HS",
+    "Category": "ST",
+    "Opening\r\nRank": 742122,
+    "Closing\r\nRank": 1115442,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 33513,
+    "Closing\r\nRank": 41101,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 297649,
+    "Closing\r\nRank": 297649,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 25386,
+    "Closing\r\nRank": 29566,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "OS",
+    "Category": "PWD",
+    "Opening\r\nRank": 225157,
+    "Closing\r\nRank": 225157,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (CSE)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 141438,
+    "Closing\r\nRank": 151112,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 288879,
+    "Closing\r\nRank": 288879,
+    "abbreviations ": "BCDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 194861,
+    "Closing\r\nRank": 233118,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 86359,
+    "Closing\r\nRank": 103413,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 137598,
+    "Closing\r\nRank": 149382,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 54524,
+    "Closing\r\nRank": 69337,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "HS",
+    "Category": "PWD",
+    "Opening\r\nRank": 973333,
+    "Closing\r\nRank": 973333,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 323678,
+    "Closing\r\nRank": 414080,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 51349,
+    "Closing\r\nRank": 54328,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 305596,
+    "Closing\r\nRank": 305596,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 40903,
+    "Closing\r\nRank": 48101,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 226802,
+    "Closing\r\nRank": 230300,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (ECE)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 418467,
+    "Closing\r\nRank": 418467,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 770468,
+    "Closing\r\nRank": 770468,
+    "abbreviations ": "BCDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 170076,
+    "Closing\r\nRank": 197873,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 72622,
+    "Closing\r\nRank": 82602,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 94993,
+    "Closing\r\nRank": 102654,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 46113,
+    "Closing\r\nRank": 56303,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "HS",
+    "Category": "PWD",
+    "Opening\r\nRank": 539362,
+    "Closing\r\nRank": 595411,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 287831,
+    "Closing\r\nRank": 320529,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 43051,
+    "Closing\r\nRank": 44331,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 404380,
+    "Closing\r\nRank": 404380,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 33090,
+    "Closing\r\nRank": 38077,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "OS",
+    "Category": "PWD",
+    "Opening\r\nRank": 381683,
+    "Closing\r\nRank": 381683,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech./M. Tech.(DD) (IT)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 151446,
+    "Closing\r\nRank": 198167,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "AI",
+    "Category": "J&K Migrant",
+    "Opening\r\nRank": 103276,
+    "Closing\r\nRank": 103276,
+    "abbreviations ": "NOKM"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 197359,
+    "Closing\r\nRank": 197359,
+    "abbreviations ": "BCDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 78316,
+    "Closing\r\nRank": 153188,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 53987,
+    "Closing\r\nRank": 68074,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 102228,
+    "Closing\r\nRank": 102228,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 29623,
+    "Closing\r\nRank": 45488,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "HS",
+    "Category": "PWD",
+    "Opening\r\nRank": 385280,
+    "Closing\r\nRank": 385280,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 141178,
+    "Closing\r\nRank": 268558,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "HS",
+    "Category": "ST",
+    "Opening\r\nRank": 822638,
+    "Closing\r\nRank": 822638,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 41183,
+    "Closing\r\nRank": 41183,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 26797,
+    "Closing\r\nRank": 32025,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-AI)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 171169,
+    "Closing\r\nRank": 171169,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 501552,
+    "Closing\r\nRank": 501552,
+    "abbreviations ": "BCDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "HS",
+    "Category": "OBC",
+    "Opening\r\nRank": 132431,
+    "Closing\r\nRank": 174576,
+    "abbreviations ": "BCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "HS",
+    "Category": "EWS",
+    "Opening\r\nRank": 68209,
+    "Closing\r\nRank": 76306,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 45697,
+    "Closing\r\nRank": 49870,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "HS",
+    "Category": "PWD",
+    "Opening\r\nRank": 492106,
+    "Closing\r\nRank": 492106,
+    "abbreviations ": "OPPH"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 222600,
+    "Closing\r\nRank": 305765,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication Technology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "OS",
+    "Category": "EWS",
+    "Opening\r\nRank": 42033,
+    "Closing\r\nRank": 42033,
+    "abbreviations ": "EWNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 34206,
+    "Closing\r\nRank": 35866,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 165548,
+    "Closing\r\nRank": 165548,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "University School of Information & Communication\r\nTechnology, Sector 16 C, Dwarka, New Delhi - 110078",
+    "Program": "B. Tech/M. Tech.(DD) (CSE-DS)",
+    "Quota": "OS",
+    "Category": "ST",
+    "Opening\r\nRank": 390835,
+    "Closing\r\nRank": 390835,
+    "abbreviations ": "STNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 527921,
+    "Closing\r\nRank": 527921,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 160059,
+    "Closing\r\nRank": 234830,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1023929,
+    "Closing\r\nRank": 1271812,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 125839,
+    "Closing\r\nRank": 125839,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 93312,
+    "Closing\r\nRank": 114377,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Data Science",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 451349,
+    "Closing\r\nRank": 457257,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 256631,
+    "Closing\r\nRank": 320584,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 172075,
+    "Closing\r\nRank": 253707,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1337252,
+    "Closing\r\nRank": 1337252,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 133248,
+    "Closing\r\nRank": 133248,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 98286,
+    "Closing\r\nRank": 118404,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Artificial Intelligence & Machine Learning",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 429675,
+    "Closing\r\nRank": 480706,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "B. Tech. (Computer Science & Applied\r\nMathematics)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 289994,
+    "Closing\r\nRank": 408526,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "B. Tech. (Computer Science & Applied\r\nMathematics)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 179573,
+    "Closing\r\nRank": 275814,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "B. Tech. (Computer Science & Applied Mathematics)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 918387,
+    "Closing\r\nRank": 918387,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "B. Tech. (Computer Science & Applied\r\nMathematics)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 137243,
+    "Closing\r\nRank": 137243,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "B. Tech. (Computer Science & Applied\r\nMathematics)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 106723,
+    "Closing\r\nRank": 118698,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block",
+    "Program": "B. Tech. (Computer Science & Applied",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 523019,
+    "Closing\r\nRank": 545371,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 549045,
+    "Closing\r\nRank": 705039,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 124708,
+    "Closing\r\nRank": 194426,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Computer Science & Engineering",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 826292,
+    "Closing\r\nRank": 997476,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 117985,
+    "Closing\r\nRank": 117985,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 79457,
+    "Closing\r\nRank": 97583,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Computer Science & Engineering",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 322087,
+    "Closing\r\nRank": 392305,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "CSE (Cyber Security)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 329540,
+    "Closing\r\nRank": 876625,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "CSE (Cyber Security)",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 176729,
+    "Closing\r\nRank": 240323,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "CSE (Cyber Security)",
+    "Quota": "HS",
+    "Category": "SC",
+    "Opening\r\nRank": 1054495,
+    "Closing\r\nRank": 1236038,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "CSE (Cyber Security)",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 104656,
+    "Closing\r\nRank": 118168,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "CSE (Cyber Security)",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 391775,
+    "Closing\r\nRank": 391775,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Electronics Engg.- VLSI Design & Technology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 768051,
+    "Closing\r\nRank": 786670,
+    "abbreviations ": "OPDF"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Electronics Engg.- VLSI Design &\r\nTechnology",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 226409,
+    "Closing\r\nRank": 319365,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Electronics Engg.- VLSI Design &\r\nTechnology",
+    "Quota": "OS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 118725,
+    "Closing\r\nRank": 124254,
+    "abbreviations ": "OPNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block\r\n(Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Electronics Engg.- VLSI Design &\r\nTechnology",
+    "Quota": "OS",
+    "Category": "SC",
+    "Opening\r\nRank": 438872,
+    "Closing\r\nRank": 438872,
+    "abbreviations ": "SCNO"
+  },
+  {
+    "Round": 2,
+    "Institute": "Vivekananda Institute of Professional Studies, AU Block (Outer Ring Road), Pitampura, New Delhi.",
+    "Program": "Industrial Internet of Things",
+    "Quota": "HS",
+    "Category": "GENERAL",
+    "Opening\r\nRank": 426679,
+    "Closing\r\nRank": 523029,
+    "abbreviations ": "OPDF"
+  }
+]
