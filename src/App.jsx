@@ -15,10 +15,12 @@ function App() {
 
   const [categories, setCategories] = useState([]);
   const [quotas, setQuotas] = useState([]);
+  const [abbreviations, setAbbreviations] = useState([]);
 
   const [sortDirection, setSortDirection] = useState("asc");
   const [programFilter, setProgramFilter] = useState("");
   const [collegeFilter, setCollegeFilter] = useState("");
+  const [abbrevFilter, setAbbrevFilter] = useState("");
 
   useEffect(() => {
     const fetchData = async () => {
@@ -26,19 +28,20 @@ function App() {
         const res = await fetch("/ipudata.json");
         const json = await res.json();
 
-        // Normalize column names
         const cleaned = json.map(row => ({
           ...row,
           "Closing Rank": parseInt(row["Closing\r\nRank"]),
           "Category": row["Category"].trim(),
           "Quota": row["Quota"].trim(),
           "Program": row["Program"].trim(),
-          "Institute": row["Institute"].trim()
+          "Institute": row["Institute"].trim(),
+          "abbreviations": (row["abbreviations "] || "").trim()
         }));
 
         setData(cleaned);
         setCategories([...new Set(cleaned.map(d => d["Category"]))].sort());
         setQuotas([...new Set(cleaned.map(d => d["Quota"]))].sort());
+        setAbbreviations([...new Set(cleaned.map(d => d["abbreviations"]))].sort());
       } catch (err) {
         console.error("Error loading IPU data:", err);
         alert("Failed to load IPU data.");
@@ -62,6 +65,7 @@ function App() {
     setSortDirection("asc");
     setProgramFilter("");
     setCollegeFilter("");
+    setAbbrevFilter("");
     setClicked(true);
   };
 
@@ -74,6 +78,7 @@ function App() {
     setClicked(false);
     setProgramFilter("");
     setCollegeFilter("");
+    setAbbrevFilter("");
   };
 
   const sortByRank = () => {
@@ -95,11 +100,12 @@ function App() {
       row["Program"],
       row["Quota"],
       row["Category"],
+      row["abbreviations"],
       row["Closing Rank"]
     ]);
 
     autoTable(doc, {
-      head: [["College", "Program", "Quota", "Category", "Closing Rank"]],
+      head: [["College", "Program", "Quota", "Category", "Abbrev.", "Closing Rank"]],
       body: tableBody,
       startY: 25,
       styles: { fontSize: 7 },
@@ -112,7 +118,8 @@ function App() {
   const displayedResults = filtered.filter(row => {
     const progMatch = programFilter ? row["Program"] === programFilter : true;
     const collMatch = collegeFilter ? row["Institute"] === collegeFilter : true;
-    return progMatch && collMatch;
+    const abbrevMatch = abbrevFilter ? row["abbreviations"] === abbrevFilter : true;
+    return progMatch && collMatch && abbrevMatch;
   });
 
   return (
@@ -164,6 +171,15 @@ function App() {
                   ))}
                 </select>
               </div>
+              <div>
+                <label>Filter by Abbreviation:</label>
+                <select value={abbrevFilter} onChange={e => setAbbrevFilter(e.target.value)}>
+                  <option value="">All Abbreviations</option>
+                  {abbreviations.map((abbr, i) => (
+                    <option key={i} value={abbr}>{abbr}</option>
+                  ))}
+                </select>
+              </div>
             </div>
           </div>
 
@@ -175,6 +191,7 @@ function App() {
                   <th>Program</th>
                   <th>Quota</th>
                   <th>Category</th>
+                  <th>Abbrev.</th>
                   <th>Closing Rank</th>
                 </tr>
               </thead>
@@ -185,6 +202,7 @@ function App() {
                     <td>{row["Program"]}</td>
                     <td>{row["Quota"]}</td>
                     <td>{row["Category"]}</td>
+                    <td>{row["abbreviations"]}</td>
                     <td>{row["Closing Rank"]}</td>
                   </tr>
                 ))}
